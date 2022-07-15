@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...project
-- 📫 How to reach me ...kabilan00
+- 📫 How to reach me ...kabilanvengatesan@gmail.com
 
 
 <!---
